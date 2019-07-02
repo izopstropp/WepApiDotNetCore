@@ -1,0 +1,11 @@
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.deps.json
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.runtimeconfig.json
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.runtimeconfig.dev.json
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.dll
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.pdb
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.csprojAssemblyReference.cache
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.AssemblyInfoInputs.cache
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.AssemblyInfo.cs
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.dll
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Interfaces.WebApi\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Interfaces.WebApi.pdb
