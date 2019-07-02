@@ -1,0 +1,6 @@
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Infrastructure.Data\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Infrastructure.Data.deps.json
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Infrastructure.Data\bin\Debug\netcoreapp2.0\PrimeiraWebApiCore.Infrastructure.Data.dll
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Infrastructure.Data\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Infrastructure.Data\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Infrastructure.Data\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\felipe.silva\source\repos\PrimeiraWebApiCore\PrimeiraWebApiCore.Infrastructure.Data\obj\Debug\netcoreapp2.0\PrimeiraWebApiCore.Infrastructure.Data.AssemblyInfo.cs
